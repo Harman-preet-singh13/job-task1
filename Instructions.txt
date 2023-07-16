@@ -1,0 +1,13 @@
+Instructions
+
+Greetings from this side...
+
+Instructions are quite simple... 
+
+1 Step-> Create a file with task. 
+
+2 Step-> Extract the files in that task folder. 
+
+3 Step-> Open the terminal with same path and on terminal write code npm install. Wait for 2-3min
+
+4 Step-> Then type npm run start and hit enter.  
